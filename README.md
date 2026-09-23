@@ -1,3 +1,3 @@
 # simplificador-booleano
 
-ECUACION: ((A+B))^!((A*B)+(C*D))
+ECUACION: ((A+B))^!((A\*B)+(C*D))
